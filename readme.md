@@ -1,5 +1,7 @@
 # Brightness Stress Test
 
+![Brightness Stress Test application](BST.jpg?raw=true "Brightness Stress Test")
+
 This test in certain people might cause epilepsia.
 Therefore if you suspect you have epilepsia DO NOT run this program.
 
